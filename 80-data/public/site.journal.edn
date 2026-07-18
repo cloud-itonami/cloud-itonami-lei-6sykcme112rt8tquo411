@@ -1,0 +1,5 @@
+[["jones-site-1" :site/url "https://www.jll.com" 1 :add]
+ ["jones-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["jones-site-1" :site/http-status 200 1 :add]
+ ["jones-site-1" :site/title "JLL | 事業用不動産の総合サービス | 売買・賃貸・投資・管理" 1 :add]
+ ["jones-site-1" :site/description "JLLは、事業用不動産と不動産投資のグローバル総合サービス企業です。オフィス、物流施設や商業施設のリーシング・賃貸借、不動産管理、売買仲介、資産運用まで、豊富な専門知識でお客様の資産価値向上とビジネス成長を支援するソリューションを提供します。" 1 :add]]
